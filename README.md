@@ -39,3 +39,10 @@ jupyter notebook
 ```
 ruby -r csv crime.rb
 ```
+
+## Setup (Chris' solution)
+
+```
+chmod +x borodic.sh
+./borodic.sh
+```
