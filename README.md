@@ -1,3 +1,12 @@
+## Background
+
+This came out of a brief discussion on the best way to do data analysis on a Boston Crime Incident Report dataset: 
+
+https://data.boston.gov/dataset/crime-incident-reports-august-2015-to-date-source-new-system
+
+
+## Setup
+
 * Install Python 3.7
 * Install virtualenv
 
