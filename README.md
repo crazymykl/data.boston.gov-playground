@@ -5,7 +5,7 @@ This came out of a brief discussion on the best way to do data analysis on a Bos
 https://data.boston.gov/dataset/crime-incident-reports-august-2015-to-date-source-new-system
 
 
-## Setup
+## Setup (Steven's solution)
 
 * Install Python 3.7
 * Install virtualenv
@@ -34,3 +34,8 @@ pip3 install -r requirements.txt
 jupyter notebook
 ```
 
+## Setup (Mike's solution)
+
+```
+ruby -r csv crime.rb
+```
