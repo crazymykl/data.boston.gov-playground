@@ -6,4 +6,4 @@ def crime codes=[413, 3301, 802, 311]
     .to_h
 end
 
-crime if __FILE__ == $0
+p crime if __FILE__ == $0
